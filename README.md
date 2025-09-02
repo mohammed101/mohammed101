@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/entity-framework-core-1.svg" height="40" alt="Entity Framework Core logo" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?logo=dotnet&logoColor=white" height="40" alt="Entity Framework Core" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
   <img width="12" />
